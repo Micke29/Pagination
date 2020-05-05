@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Prerequisite
 
 - In **frontend** folder, make `npm install` and `npm start`.<br />
-- Goto **2. Backend project** for backend API instructions.
+- Goto [Backend project](https://github.com/Micke29/Pagination#backend-project) for backend API instructions.
 
 ## Available Scripts
 
