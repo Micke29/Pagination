@@ -1,14 +1,14 @@
 # Pagination
 Frontend REACT application and Backend API pagination system
 
-1. Frontend project
-    1. Prerequisite
-    2. Available Scripts
-    3. Learn More
+1. [Frontend project](https://github.com/Micke29/Pagination#frontend-project)
+    1. [Prerequisite](https://github.com/Micke29/Pagination#prerequisite)
+    2. [Available Scripts](https://github.com/Micke29/Pagination#available-scripts)
+    3. [Learn More](https://github.com/Micke29/Pagination#learn-more)
 
-2. Backend project
-    1. Prerequisite
-    2. Available Scripts
+2. [Backend project](https://github.com/Micke29/Pagination#backend-project)
+    1. [Prerequisite](https://github.com/Micke29/Pagination#prerequisite-1)
+    2. [Available Scripts](https://github.com/Micke29/Pagination#available-scripts-1)
 
 ---
 
