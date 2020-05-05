@@ -105,4 +105,4 @@ In the backend directory, you can run:
 ### `npm start`
 
 Run the app in the development mode.<br />
-Open [http://localhost:3100](http://localhost:3100) (by default) to view it in the browser.
+Open [http://localhost:3100/api/users](http://localhost:3100/api/users) (by default) to view it in the browser.
