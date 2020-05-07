@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Users /> should be match its reference snapshot 1`] = `
+<ul
+  className="list-group mb-4"
+>
+  <li
+    className="list-group-item"
+    key="1"
+  >
+    test 1
+  </li>
+  <li
+    className="list-group-item"
+    key="2"
+  >
+    test 2
+  </li>
+  <li
+    className="list-group-item"
+    key="3"
+  >
+    test 3
+  </li>
+  <li
+    className="list-group-item"
+    key="4"
+  >
+    test 4
+  </li>
+  <li
+    className="list-group-item"
+    key="5"
+  >
+    test 5
+  </li>
+</ul>
+`;

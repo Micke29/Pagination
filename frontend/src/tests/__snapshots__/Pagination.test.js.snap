@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pagination /> should be match its reference snapshot 1`] = `
+<nav>
+  <ul
+    className="pagination"
+  >
+    <li
+      className="page-item"
+      key="1"
+    >
+      <a
+        className="page-link"
+        href="!#"
+        onClick={[Function]}
+      >
+        1
+      </a>
+    </li>
+    <li
+      className="page-item"
+      key="2"
+    >
+      <a
+        className="page-link"
+        href="!#"
+        onClick={[Function]}
+      >
+        2
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
