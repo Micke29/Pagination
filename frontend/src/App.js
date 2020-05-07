@@ -21,9 +21,9 @@ const App = () => {
   }, [])
 
   // Get current users
-  const indexOfLastPost = currentPage * usersPerPage
-  const indexOfFirstPost = indexOfLastPost - usersPerPage
-  const currentUsers = users.slice(indexOfFirstPost, indexOfLastPost)
+  const indexOfLastUser = currentPage * usersPerPage
+  const indexOfFirstUser = indexOfLastUser - usersPerPage
+  const currentUsers = users.slice(indexOfFirstUser, indexOfLastUser)
 
   // Change page
   const paginate = pageNumber => setCurrentPage(pageNumber)
